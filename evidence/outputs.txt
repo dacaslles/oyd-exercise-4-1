@@ -1,0 +1,2 @@
+dynamodb_table_name = "user-events-dev"
+s3_bucket_name = "oyd-log-archive-pdds-26001460-dev"

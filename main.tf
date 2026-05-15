@@ -1,7 +1,7 @@
 module "log_archive" {
   source = "./modules/log-archive"
 
-  bucket_name = "app-logs"
+  bucket_name = "oyd-log-archive-pdds-26001460"
   environment = var.environment
 }
 
